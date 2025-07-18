@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Karina Gateway",
-  description: "FastAPI authentication gateway",
+  title: "Conversarium",
+  description: "Real-time AI-powered conversation practice",
 };
 
 export default function RootLayout({
